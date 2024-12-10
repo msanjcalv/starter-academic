@@ -67,7 +67,7 @@ social:
   link: https://msanjaume.netlify.app/uploads/CV.pdf 
 - icon: orcid
   icon_pack: fab
-  link: https://https://orcid.org/0000-0001-8723-1618 
+  link: https://orcid.org/0000-0001-8723-1618 
   
   
 
