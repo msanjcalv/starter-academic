@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Postgrau Analista de Dades
+  - course: Postgrau d'Analista de Dades
     institution: Universitat de Barcelona
     year: 2018
   - course: Doctorat en Teoria Política

@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master Degree Data Analyst
+  - course: Expert Diploma Data Analyst for Political Analysis
     institution: Universitat de Barcelona
     year: 2018
   - course: PhD in Political Theory
