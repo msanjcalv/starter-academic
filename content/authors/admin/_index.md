@@ -63,7 +63,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/marcsanjaume
 - icon: cv
-  icon_pack: fab
+  icon_pack: ai
   link: https://msanjaume.netlify.app/uploads/CV.pdf 
 - icon: orcid
   icon_pack: fab
