@@ -9,8 +9,7 @@ header:
   image: ""
 ---
 
-Coordino el [Grup de Recerca en Teoria Política](https://www.upf.edu/web/grtp) (GRTP) juntament amb el Professor [Sergi Morales-Gálvez](https://www.sergimorales.cat/es/). El GRTP és un grup de recerca consolidat del Departament de Ciències Polítiques i Socials de la Universitat Pompeu Fabra. El GRTP analitza, des d'una perspectiva teòrica i aplicada, les societats democràtiques amb un enfocament en diversos temes de la teoria política contemporània: justícia i drets, nacionalisme i secessió, religió i democràcia, federalisme i drets de les minories, política de la UE i regionalisme, dret i pluralisme, art i política.<br/><br/> 
-
+Formo part del [Grup de Recerca en Teoria Social i Política](https://www.upf.edu/web/sptg) (SPTG). <br/><br/> 
 
 **Projectes actuals:**<br/><br/>
 
