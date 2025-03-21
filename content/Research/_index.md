@@ -9,7 +9,7 @@ header:
   image: ""
 ---
 
-I belong to the [Social and Political Theory research Group](https://www.upf.edu/web/sptg) (GRTP). <br/><br/> 
+I belong to the [Social and Political Theory research Group](https://www.upf.edu/web/sptg) (SPTG). <br/><br/> 
 
 **Current projects:**<br/><br/> 
 
