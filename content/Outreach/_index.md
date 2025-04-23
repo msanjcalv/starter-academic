@@ -11,6 +11,8 @@ header:
 
 *Blog posts*
 
+* ¿Qué hace que un Estado autorice (o no) un referéndum de independencia? (13/04/2025) - [The Conversation](https://theconversation.com/que-hace-que-un-estado-autorice-o-no-un-referendum-de-independencia-253986)
+
 * Climate change denialism and the crisis of the centre in Spain (12/11/2024) - [The Loop](https://theloop.ecpr.eu/in-spanish-politics-climate-denial-is-not-only-a-trait-of-the-far-right-its-a-crisis-of-the-centre/) 
 
 * Protecting Territorial Minorities: Defensive Federalism (19/02/2024) - [Justice Everywhere](https://justice-everywhere.org/general/protecting-territorial-minorities-defensive-federalism/)
