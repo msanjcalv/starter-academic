@@ -90,6 +90,10 @@ highlight_name: false
 ---
 
 
-Soc en Marc Sanjaume-Calvet, Professor Lector de Ciència Política a la [Universitat Pompeu Fabra](https://www.upf.edu/web/politiques/) i membre del [Grup de Recerca en Teoria Social i Política](https://www.upf.edu/web/sptg). He estat professor a la Universitat Oberta de Catalunya, assessor a l’[Institut d’Estudis de l’Autogovern](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/index.html) (Generalitat de Catalunya) i investigador a la Universitat d’Edimburg, la Université Laval i la Université du Québec à Montréal. Estic especialitzat en l'estudi del federalisme i l'autodeterminació, especialment en el secessionisme, els conflictes territorials i la governança en estats multinivell. 
+Soc en Marc Sanjaume-Calvet, Professor Lector de Ciència Política a la [Universitat Pompeu Fabra](https://www.upf.edu/web/politiques/) i membre del [Grup de Recerca en Teoria Social i Política](https://www.upf.edu/web/sptg). 
+
+He estat professor a la Universitat Oberta de Catalunya, assessor a l’[Institut d’Estudis de l’Autogovern](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/index.html) (Generalitat de Catalunya) i investigador a la Universitat d’Edimburg, la Université Laval i la Université du Québec à Montréal. 
+
+Estic especialitzat en l'estudi del federalisme i l'autodeterminació, especialment en el secessionisme, els conflictes territorials i la governança en estats multinivell. 
 
 
