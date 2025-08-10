@@ -30,6 +30,8 @@ header:
 
 *Recent op-eds and political commentary*
 
+* Poble sahrauí: l'equació del futur sobre la taula (23/04/2025) - [Nació Digital](https://naciodigital.cat/opinio/poble-sahraui-lequacio-del-futur-sobre-la-taula.html)
+
 * Un oasi sense cap de l'oposició (25/11/2024) - [Nació Digital](https://naciodigital.cat/politica/oasi-sense-cap-oposicio_2057663_102.html)
 
 * Extremisme de centre (1/03/2024) - [Ara](https://www.ara.cat/opinio/extremisme-centre-marc-sanjaume_129_4953789.html) 

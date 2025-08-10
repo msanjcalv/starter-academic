@@ -14,7 +14,11 @@
   weight : 30
 ---
 
+<<<<<<< HEAD
 * Mas, J.; Sanjaume-Calvet, M.; Serrano, I. 2025. ["Mapping Regionalism and Secessionism: A New Dataset of Territorial Demands in the EU"](https://www.tandfonline.com/doi/full/10.1080/17449057.2025.2532317?src=exp-la). ***Ethnopolitics***, 1–18. DOI: https://doi.org/10.1080/17449057.2025.2532317 <br/><br/>
+=======
+* Klaser, K.; Marcon, L.; Sanjaume-Calvet, M. 2025. ["Compliance in the climate change context: A Kantian support for Rawls’s intergenerational sense of justice"](https://revistas.um.es/daimon/libraryFiles/downloadPublic/18821), ***Daimon***. DOI: http://dx.doi.org/10.6018/daimon.639771 . <br/><br/>
+>>>>>>> 4acef32794c6462c77a49ec2c9968080095b1207
 
 * Sanjaume-Calvet, M.; Creus, M. G.; Torres, P.; Barbet-Porta, B.; & Jodar, M. 2025. ["A case of top-down intergovernmentalism? The Spanish bilateral cooperation commissions"](https://www.tandfonline.com/doi/full/10.1080/13608746.2025.2470555?src=exp-la), ***South European Society and Politics***. DOI: https://doi.org/10.1080/13608746.2025.2470555. <br/><br/>
 
