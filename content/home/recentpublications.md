@@ -13,6 +13,7 @@
   # Order that this section will appear in.
   weight : 30
 ---
+* Mas, J.; Sanjaume-Calvet, M.; Serrano, I. 2025. ["Mapping Regionalism and Secessionism: A New Dataset of Territorial Demands in the EU"](https://www.tandfonline.com/doi/full/10.1080/17449057.2025.2532317?src=exp-la). ***Ethnopolitics***, 1–18. DOI: https://doi.org/10.1080/17449057.2025.2532317 <br/><br/>
 
 * Sanjaume-Calvet, M.; Creus, M. G.; Torres, P.; Barbet-Porta, B.; & Jodar, M. 2025. ["A case of top-down intergovernmentalism? The Spanish bilateral cooperation commissions"](https://www.tandfonline.com/doi/full/10.1080/13608746.2025.2470555?src=exp-la), ***South European Society and Politics***. DOI: https://doi.org/10.1080/13608746.2025.2470555. <br/><br/>
 
