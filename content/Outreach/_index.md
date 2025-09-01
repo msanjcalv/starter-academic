@@ -11,6 +11,8 @@ header:
 
 *Blog posts*
 
+* When Europe means unity, not pluralism: rethinking conditionality in Ukraine (28/08/2025) - [The Loop](https://theloop.ecpr.eu/when-europe-means-unity-not-pluralism-rethinking-conditionality-in-ukraine/) 
+
 * ¿Qué hace que un Estado autorice (o no) un referéndum de independencia? (13/04/2025) - [The Conversation](https://theconversation.com/que-hace-que-un-estado-autorice-o-no-un-referendum-de-independencia-253986)
 
 * Climate change denialism and the crisis of the centre in Spain (12/11/2024) - [The Loop](https://theloop.ecpr.eu/in-spanish-politics-climate-denial-is-not-only-a-trait-of-the-far-right-its-a-crisis-of-the-centre/) 
@@ -29,6 +31,8 @@ header:
 
 
 *Recent op-eds and political commentary*
+
+* Així reconnecta l'independentisme amb els joves al Quebec (30/08/2025) - [Nació Digital](https://naciodigital.cat/internacional/aixi-reconnecta-lindependentisme-amb-els-joves-al-quebec.html)
 
 * Poble sahrauí: l'equació del futur sobre la taula (23/04/2025) - [Nació Digital](https://naciodigital.cat/opinio/poble-sahraui-lequacio-del-futur-sobre-la-taula.html)
 
