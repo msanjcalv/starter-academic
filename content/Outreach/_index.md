@@ -32,6 +32,8 @@ header:
 
 *Recent op-eds and political commentary*
 
+* La ira independentista (21/10/2025) - [El Nacional](https://www.elnacional.cat/ca/opinio/ira-independentista-marc-sanjaume_1502233_102.html)
+
 * Així reconnecta l'independentisme amb els joves al Quebec (30/08/2025) - [Nació Digital](https://naciodigital.cat/internacional/aixi-reconnecta-lindependentisme-amb-els-joves-al-quebec.html)
 
 * Poble sahrauí: l'equació del futur sobre la taula (23/04/2025) - [Nació Digital](https://naciodigital.cat/opinio/poble-sahraui-lequacio-del-futur-sobre-la-taula.html)

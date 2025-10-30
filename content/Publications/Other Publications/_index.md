@@ -9,6 +9,10 @@ header:
   caption: ""
   image: ""
 ---
+
+* Vallbé, Joan-Josep; Cetrà, Dani; Sanjaume-Calvet, Marc. 2025. ["Tribunal Constitucional i poder central: una anàlisi empírica
+"](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/publicacions/cataleg-de-publicacions/pc-15). In *Institut d'Estudis de l'Autogovern*, col·lecció Paper Clip, 15. <br/><br/>
+
 * Sanjaume-Calvet, Marc, Berta Barbet Porta and Mireia Grau Creus. 2022. ["Catalan self-government: from autonomy to self-determination?"](https://www.world-autonomies.info/territorial-autonomies/catalonia). In *Autonomy Arrangements in the World*, 2nd edition. <br/><br/>
 
 * Sanjaume-Calvet, M. 2022. ["Populismes: fenomenologia i estructura"](https://dialnet.unirioja.es/servlet/revista?codigo=14056), *Qüestions de vida cristiana*, 273: 15-27.<br/><br/>
