@@ -1,0 +1,41 @@
+// ======================================================
+// UPF-inspired Wowchemy color theme
+// ======================================================
+
+// Core brand color
+$primary: #7a1e2d;
+
+// Backgrounds
+$body-bg: #ffffff;
+$footer-bg: #f5f5f5;
+
+// Text
+$text-color: #1f2937;
+$heading-color: #111827;
+$muted-color: #6b7280;
+
+// Links
+$link-color: $primary;
+$link-hover-color: darken($primary, 12%);
+
+// Navbar
+$navbar-light-bg: #ffffff;
+$navbar-light-color: #1f2937;
+$navbar-light-hover-color: $primary;
+$navbar-light-active-color: $primary;
+
+// Buttons
+$btn-primary-bg: $primary;
+$btn-primary-border: $primary;
+$btn-primary-color: #ffffff;
+
+// Code blocks
+$code-bg: #f3f4f6;
+$code-color: #111827;
+
+// Tables
+$table-border-color: #e5e7eb;
+
+// Alerts
+$alert-primary-bg: rgba(122, 30, 45, 0.08);
+$alert-primary-border: $primary;
