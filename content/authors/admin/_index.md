@@ -6,7 +6,7 @@ title:
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor <br/> of Political Science
+role: Associate Professor <br/> of Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -87,7 +87,7 @@ email: ""
 highlight_name: false
 ---
 
-I am **Marc Sanjaume-Calvet**, Assistant Professor of Political Science at [Universitat Pompeu Fabra](https://www.upf.edu/web/politiques) and a member of the [Social and Political Theory Research Group](https://www.upf.edu/web/sptg). 
+I am **Marc Sanjaume-Calvet**, Associate Professor of Political Science at [Universitat Pompeu Fabra](https://www.upf.edu/web/politiques) and a member of the [Social and Political Theory Research Group](https://www.upf.edu/web/sptg). 
 
 I have previously taught at Universitat Oberta de Catalunya, served as an advisor at the [Self-Government Studies Institute](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/index.html#googtrans(ca|en)) (Catalan Government), and conducted research at Edinburgh University, Université Laval, and Université du Québec à Montréal. 
 
