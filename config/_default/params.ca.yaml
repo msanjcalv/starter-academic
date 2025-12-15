@@ -9,7 +9,7 @@ theme: custom
 day_night: true
 font: 'default'
 font_size: L
-color_theme: Forest
+color_theme: custom
 
 # SEO
 
