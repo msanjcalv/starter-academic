@@ -5,11 +5,11 @@
 
 # Appearance
 
-theme: custom
-day_night: true
-font: serif
-font_size: M
-color_theme: custom
+  theme: default
+  day_night: true
+  font: serif
+  font_size: M
+#color_theme: custom
 
 # SEO
 
