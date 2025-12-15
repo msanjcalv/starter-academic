@@ -7,16 +7,16 @@
 
 theme: earth
 day_night: true
-font: rose
-font_size: L
-color_theme: 1950s
+font: serif
+font_size: M
+color_theme: minimal
 
 # SEO
 
 site_type: Person
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: Universitat Pompeu Fabra
+description: Associate Professor of Political Science at Universitat Pompeu Fabra.
 twitter: ''
 
 # Contact (edit or remove options as required)
