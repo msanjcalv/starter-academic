@@ -17,7 +17,7 @@
 
 #[[plugins]]
   #package = "netlify-plugin-hugo-cache-resources"
-  [plugins.inputs]
+  #[plugins.inputs]
     #debug = true
 
 [[redirects]]
