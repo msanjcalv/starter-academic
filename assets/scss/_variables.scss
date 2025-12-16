@@ -1,13 +1,64 @@
-$sta-primary: #8C1D18;      /* UPF red */
-$sta-secondary: #5A0F0B;
-$navbar-bg: #ffffff;
-$navbar-light-color: #000000;
-$footer-bg: #f5f5f5;
-$footer-color: #333333;
-$link-color: $sta-primary;
-$link-hover-color: darken($sta-primary, 10%);
+// ==========================================
+// COLORS PERSONALITZATS
+// ==========================================
+$sta-primary: #8C1D18;        // Color principal
+$sta-secondary: #5A0F0B;      // Color secundari
+$navbar-bg: #ffffff;          // Fons de la barra de navegació
+$navbar-light-color: #000000; // Color del text a la barra de navegació
+$footer-bg: #f5f5f5;          // Fons del peu de pàgina
+$footer-color: #333333;       // Color del text al peu de pàgina
 
-@import "custom/custom.scss"; /* variables Wowchemy */
-@import "buttons.scss";        /* estils */
-@import "navbar.scss";         /* estils */
-@import "footer.scss";         /* estils */
+// ==========================================
+// COLORS PER A LINK
+// ==========================================
+$link-color: $sta-primary;            // Color per enllaços
+$link-hover-color: darken($sta-primary, 10%); // Color dels enllaços al passar-hi el ratolí
+
+// ==========================================
+// COLORS DEL FONS
+// ==========================================
+$background-color: #f4f4f4;   // Fons general de la pàgina
+$heading-color: #333333;      // Color dels títols
+
+// ==========================================
+// COLORS DELS BOTONS
+// ==========================================
+$btn-primary: $sta-primary;   // Botó primari
+$btn-secondary: $sta-secondary; // Botó secundari
+
+// ==========================================
+// COLORS DE TEXT
+// ==========================================
+$text-color: #333333;      // Color del text principal
+$muted-text-color: #888888; // Color de text desactivat
+
+// ==========================================
+// FONTS
+// ==========================================
+$font-family-base: 'Helvetica Neue', Arial, sans-serif;
+$font-family-heading: 'Arial', sans-serif;
+
+// ==========================================
+// DISSENY DE LA NAVBAR
+// ==========================================
+$navbar-height: 60px;
+$navbar-padding: 10px 0;
+
+// ==========================================
+// ALTRES
+// ==========================================
+$border-radius: 4px;        // Arrodoniment de les cantonades
+$box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);  // Ombratge suau
+$transition: all 0.3s ease-in-out; // Transicions suaus per a la UI
+
+// ==========================================
+// Definició d'escala de colors per a ús futur
+// ==========================================
+$light-grey: #f8f8f8;
+$dark-grey: #333333;
+$primary-dark: darken($sta-primary, 10%);
+
+// Altres variables globalment utilitzades
+$main-font: 'Helvetica', sans-serif;
+$secondary-font: 'Georgia', serif;
+
