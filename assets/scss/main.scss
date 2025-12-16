@@ -1,0 +1,21 @@
+// ──────────────────────────────
+// 1️⃣ Importa variables primer
+// ──────────────────────────────
+@import "variables";  // assegura't que _variables.scss estigui a la mateixa carpeta
+
+// ──────────────────────────────
+// 2️⃣ Importa estils base del tema (si cal)
+// ──────────────────────────────
+// @import "theme/base"; // descomenta si tens estils base del tema
+
+// ──────────────────────────────
+// 3️⃣ Importa estils personalitzats
+// ──────────────────────────────
+@import "custom";  // el teu custom.scss amb botons, navbar, footer, etc.
+
+// ──────────────────────────────
+// 4️⃣ Altres imports opcionals
+// ──────────────────────────────
+// @import "components/buttons";
+// @import "components/navbar";
+// @import "components/footer";
