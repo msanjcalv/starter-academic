@@ -157,9 +157,3 @@ blackfriday:
   extensions:
     - hardLineBreak
 
-security:
-  funcs:
-    getenv:
-      - '^HUGO_'
-      - '^CI$'
-      - '^WC_'
