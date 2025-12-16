@@ -1,3 +1,14 @@
+/* ===============================
+   Fitxer principal: assets/scss/custom.scss
+   =============================== */
+
+/* Importa el fitxer de colors/variables */
+@import "custom/custom.scss"; /* aquest fitxer conté $primary, $navbar-bg, $footer-bg, etc. */
+
+/* ===============================
+   Estils que depenen de les variables
+   =============================== */
+
 /* Buttons */
 .btn-primary {
   background-color: $primary;
