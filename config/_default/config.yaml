@@ -156,3 +156,10 @@ blackfriday:
   plainIDAnchors: true
   extensions:
     - hardLineBreak
+
+security:
+  funcs:
+    getenv:
+      - '^HUGO_'
+      - '^CI$'
+      - '^WC_'
