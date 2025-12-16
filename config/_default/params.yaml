@@ -5,13 +5,12 @@
 
 # Appearance
 
-theme_day: minimal
-theme_night: minimal
-#theme: custom
-#day_night: true
-#font: 'default'
-#font_size: L
-#color_theme: custom
+
+theme: minimal
+day_night: true
+font: 'default'
+font_size: L
+color_theme: ocean
 
 # SEO
 
