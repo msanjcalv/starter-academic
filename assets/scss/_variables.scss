@@ -1,0 +1,13 @@
+$sta-primary: #8C1D18;      /* UPF red */
+$sta-secondary: #5A0F0B;
+$navbar-bg: #ffffff;
+$navbar-light-color: #000000;
+$footer-bg: #f5f5f5;
+$footer-color: #333333;
+$link-color: $sta-primary;
+$link-hover-color: darken($sta-primary, 10%);
+
+@import "custom/custom.scss"; /* variables Wowchemy */
+@import "buttons.scss";        /* estils */
+@import "navbar.scss";         /* estils */
+@import "footer.scss";         /* estils */
