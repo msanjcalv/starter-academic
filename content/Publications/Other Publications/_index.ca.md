@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+* Sanjaume-Calvet, Marc. 2025. ["De la Revolució tranquil·la al referèndum: transformació cultural i hegemonia sobiranista al Quebec"](https://raco.cat/index.php/Eines/article/view/980000001964). In *Eines*, 54, 52-60. <br/><br/>
+
 * Vallbé, Joan-Josep; Cetrà, Dani; Sanjaume-Calvet, Marc. 2025. ["Tribunal Constitucional i poder central: una anàlisi empírica
 "](https://presidencia.gencat.cat/ca/ambits_d_actuacio/desenvolupament_autogovern/institut-destudis-autogovern/publicacions/cataleg-de-publicacions/pc-15). In *Institut d'Estudis de l'Autogovern*, col·lecció Paper Clip, 15. <br/><br/>
 

@@ -11,8 +11,10 @@ header:
 
 I belong to the [Social and Political Theory research Group](https://www.upf.edu/web/sptg) (SPTG). <br/><br/> 
 
-**Current projects:**<br/><br/> 
+**Projects:**<br/><br/> 
 
+* Projectes de recerca en l’àmbit de l’organització territorial del poder de l’lnstitut
+d’Estudis de l’Autogovern (IEA).2025.*Federalism and democratic backsliding: safeguard or pathway?* (PRE223/25/000009) IP: Marc Sanjaume-Calvet (2026-2028).<br/><br/> 
 
 * Proyectos de Generación de Conocimiento 2021.*Independence and government decision-making. Why do states accept to hold self-determination referendums?* (REFSTATE) (PID2021-123861NB-I00) IPs: Jean-Baptiste Harguindéguy (Universidad Pablo de Olavide) / Marc Sanjaume-Calvet (UPF), (2022-2025).<br/><br/> 
 
