@@ -156,3 +156,4 @@ blackfriday:
   plainIDAnchors: true
   extensions:
     - hardLineBreak
+

@@ -5,11 +5,11 @@
 
 # Appearance
 
-theme: custom
+theme: earth
 day_night: true
 font: 'default'
 font_size: L
-color_theme: custom
+color_theme: earth
 
 # SEO
 
