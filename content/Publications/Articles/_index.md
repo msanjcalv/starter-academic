@@ -10,6 +10,8 @@ header:
   image: ""
 ---
 
+* Vallbé J-J, Cetrà D, Sanjaume-Calvet M. 2025. ["Judicial review and territorial conflicts: Evidence from Spain"]("https://www.cambridge.org/core/journals/european-journal-of-political-research/article/judicial-review-and-territorial-conflicts-evidence-from-spain/49DF4341FD7F54B036E3B75BC0A5BBC5"). ***European Journal of Political Research***, 1–32. https://doi.org/10.1017/S1475676525100455 <br/><br/>
+
 * Sanjaume-Calvet, M.; Mas, J. 2025. ["The Exodus That Never Was? An Empirical Analysis on Territorial Conflict and Foot-Voting"]("https://www.tandfonline.com/doi/full/10.1080/13537113.2025.2600745?src="). ***Nationalism and Ethnic Politics***, 1–27. https://doi.org/10.1080/13537113.2025.2600745 <br/><br/>
 
 * Paneque, A.; Sanjaume-Calvet, M.; & Muñoz-Puig, M. 2025. ["Beyond exit threats: the politics of vertical power transfers in Spain’s decentralized territorial system"]("https://www.tandfonline.com/doi/full/10.1080/13597566.2025.2589261?src="). ***Regional & Federal Studies***, 1–28. https://doi.org/10.1080/13597566.2025.2589261 <br/><br/>
