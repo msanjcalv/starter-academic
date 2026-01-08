@@ -12,7 +12,7 @@ header:
 
 * Vallbé J-J, Cetrà D, Sanjaume-Calvet M. 2025. ["Judicial review and territorial conflicts: Evidence from Spain"]("https://www.cambridge.org/core/journals/european-journal-of-political-research/article/judicial-review-and-territorial-conflicts-evidence-from-spain/49DF4341FD7F54B036E3B75BC0A5BBC5"). ***European Journal of Political Research***, 1–32. https://doi.org/10.1017/S1475676525100455 [Download](https://msanjaume.netlify.app/uploads/Judicial_2025.pdf)<br/><br/>
 
-* Sanjaume-Calvet, M.; Mas, J. 2025. ["The Exodus That Never Was? An Empirical Analysis on Territorial Conflict and Foot-Voting"]("https://www.tandfonline.com/doi/full/10.1080/13537113.2025.2600745?src="). ***Nationalism and Ethnic Politics***, 1–27. https://doi.org/10.1080/13537113.2025.2600745 [Download](https://msanjaume.netlify.app/uploads/Exodus_2025.pdf)<br/><br/>
+* Sanjaume-Calvet, M.; Mas, J. 2025. ["The Exodus That Never Was? An Empirical Analysis on Territorial Conflict and Foot-Voting"]("https://www.tandfonline.com/doi/full/10.1080/13537113.2025.2600745?src="). ***Nationalism and Ethnic Politics***, 1–27. https://doi.org/10.1080/13537113.2025.2600745[Download](https://msanjaume.netlify.app/uploads/Exodus_2025.pdf)<br/><br/>
 
 * Paneque, A.; Sanjaume-Calvet, M.; & Muñoz-Puig, M. 2025. ["Beyond exit threats: the politics of vertical power transfers in Spain’s decentralized territorial system"]("https://www.tandfonline.com/doi/full/10.1080/13597566.2025.2589261?src="). ***Regional & Federal Studies***, 1–28. https://doi.org/10.1080/13597566.2025.2589261 [Download](https://msanjaume.netlify.app/uploads/Beyond_2025.pdf)<br/><br/>
 
@@ -26,9 +26,11 @@ header:
 
 * Sanjaume-Calvet, M.; Lesley-Ann Daniels; Pau Bossacoma Busquets. 2024. ["Territorial Conflict in the Spotlight: Unveiling Paths to Territorial Clarity""](https://academic.oup.com/publius/advance-article/doi/10.1093/publius/pjae023/7724058?searchresult=1), ***Publius: The Journal of Federalism***. DOI: https://doi.org/10.1093/publius/pjae023. [Download](https://msanjaume.netlify.app/uploads/Publius_2024.pdf)<br/><br/>
 
-* Sanjaume-Calvet, M.; Daniels, Lesley-Ann. 2024. "[An Inflection Point or Business as Usual? Secessionism as State Contestation in Ukraine](https://academic.oup.com/isagsq/article/4/2/ksae030/7678794?login=false)", ***Global Studies Quarterly***, 4(2). DOI: https://doi.org/10.1093/isagsq/ksae030.[Download](https://msanjaume.netlify.app/uploads/Global_2024.pdf)<br/><br/>
+* Sanjaume-Calvet, M.; Daniels, Lesley-Ann. 2024. "[An Inflection Point or Business as Usual? Secessionism as State Contestation in Ukraine](https://academic.oup.com/isagsq/article/4/2/ksae030/7678794?login=false)", ***Global Studies Quarterly***, 4(2). DOI: https://doi.org/10.1093/isagsq/ksae030.
+[Download](https://msanjaume.netlify.app/uploads/Global_2024.pdf)<br/><br/>
 
-* Ungureanu, C.; Sanjaume-Calvet, M. 2024. "[The blurred lines between center-right and far-right: “Reverse contamination” and the People’s Party’s environmentalism in Spain](https://journals.sagepub.com/doi/10.1177/13540688241242275)", ***Party Politics***, 0(0). DOI: https://doi.org/10.1177/1354068824124227.[Download](https://msanjaume.netlify.app/uploads/Blurr_2024.pdf)<br/><br/>
+* Ungureanu, C.; Sanjaume-Calvet, M. 2024. "[The blurred lines between center-right and far-right: “Reverse contamination” and the People’s Party’s environmentalism in Spain](https://journals.sagepub.com/doi/10.1177/13540688241242275)", ***Party Politics***, 0(0). DOI: https://doi.org/10.1177/1354068824124227.
+[Download](https://msanjaume.netlify.app/uploads/Blurr_2024.pdf)<br/><br/>
 
 * Sanjaume-Calvet, M., Harguindéguy, J. B., & Sánchez Sánchez, A. 2024. "[Self-determination vs. state sovereignty. What are the determinants of agreed-upon independence referendums in liberal democracies?](https://www.tandfonline.com/doi/full/10.1080/13510347.2024.2331709)" ***Democratization***, 1–25. https://doi.org/10.1080/13510347.2024.2331709. [Download](https://msanjaume.netlify.app/uploads/Dem_2024.pdf)<br/><br/>
 
