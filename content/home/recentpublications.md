@@ -16,6 +16,6 @@
 
 * Harguindéguy, J-B.; Sanjaume-Calvet, M. 2026. ["The Politics of Independence Referendums. Never Mind the Ballots"]("https://link.springer.com/book/9783032182999"). Palgrave Macmillan Cham. <br/><br/>
 
-* Torres, P.; Sanjaume-Calvet, M. 2026.["Claiming the Isle? Islandness and Territorial Demands."]("https://onlinelibrary.wiley.com/doi/10.1111/nana.70080"). ***Nations and Nationalism***, 1–13. https://doi.org/10.1111/nana.70080. <br/><br/>
+* Torres, P.; Sanjaume-Calvet, M. 2026. ["Claiming the Isle? Islandness and Territorial Demands."]("https://onlinelibrary.wiley.com/doi/10.1111/nana.70080"). ***Nations and Nationalism***, 1–13. https://doi.org/10.1111/nana.70080. <br/><br/>
 
 * See the [Publications](/Publications/) section for more information.<br/><br/>
