@@ -14,19 +14,9 @@
   weight : 30
 ---
 
-* Vallbé J-J, Cetrà D, Sanjaume-Calvet M. 2025. ["Judicial review and territorial conflicts: Evidence from Spain"]("https://www.cambridge.org/core/journals/european-journal-of-political-research/article/judicial-review-and-territorial-conflicts-evidence-from-spain/49DF4341FD7F54B036E3B75BC0A5BBC5"). ***European Journal of Political Research***, 1–32. https://doi.org/10.1017/S1475676525100455 <br/><br/>
+* Harguindéguy,J-B; Sanjaume-Calvet M. 2026. ["The Politics of Independence Referendums. Never Mind the Ballots"]("https://link.springer.com/book/9783032182999"). Palgrave Macmillan Cham. <br/><br/>
 
-* Sanjaume-Calvet, M.; Mas, J. 2025. ["The Exodus That Never Was? An Empirical Analysis on Territorial Conflict and Foot-Voting"]("https://www.tandfonline.com/doi/full/10.1080/13537113.2025.2600745?src="). ***Nationalism and Ethnic Politics***, 1–27. https://doi.org/10.1080/13537113.2025.2600745 <br/><br/>
-
-* Paneque, A.; Sanjaume-Calvet, M.; & Muñoz-Puig, M. 2025. ["Beyond exit threats: the politics of vertical power transfers in Spain’s decentralized territorial system"]("https://www.tandfonline.com/doi/full/10.1080/13597566.2025.2589261?src="). ***Regional & Federal Studies***, 1–28. https://doi.org/10.1080/13597566.2025.2589261 <br/><br/>
-
-* Mas, J.; Sanjaume-Calvet, M.; Serrano, I. 2025. ["Mapping Regionalism and Secessionism: A New Dataset of Territorial Demands in the EU"](https://www.tandfonline.com/doi/full/10.1080/17449057.2025.2532317?src=exp-la). ***Ethnopolitics***, 1–18. DOI: https://doi.org/10.1080/17449057.2025.2532317 <br/><br/>
-
-* Klaser, K.; Marcon, L.; Sanjaume-Calvet, M. 2025. ["Compliance in the climate change context: A Kantian support for Rawls’s intergenerational sense of justice"](https://revistas.um.es/daimon/libraryFiles/downloadPublic/18821), ***Daimon***. DOI: http://dx.doi.org/10.6018/daimon.639771 . <br/><br/>
-
-* Sanjaume-Calvet, M.; Creus, M. G.; Torres, P.; Barbet-Porta, B.; & Jodar, M. 2025. ["A case of top-down intergovernmentalism? The Spanish bilateral cooperation commissions"](https://www.tandfonline.com/doi/full/10.1080/13608746.2025.2470555?src=exp-la), ***South European Society and Politics***. DOI: https://doi.org/10.1080/13608746.2025.2470555. <br/><br/>
-
-
+* Torres, P.; Sanjaume-Calvet M. 2026.["Claiming the Isle? Islandness and Territorial Demands."]("https://onlinelibrary.wiley.com/doi/10.1111/nana.70080"). ***Nations and Nationalism***, 1–13. https://doi.org/10.1111/nana.70080. <br/><br/>
 
 * Vegeu l'apartat de [Publicacions](/Publications/) per a més informació.<br/><br/>
 

@@ -10,6 +10,9 @@ header:
   image: ""
 ---
 
+
+* Torres, P.; Sanjaume-Calvet M. 2026.["Claiming the Isle? Islandness and Territorial Demands."]("https://onlinelibrary.wiley.com/doi/10.1111/nana.70080"). ***Nations and Nationalism***, 1–13. https://doi.org/10.1111/nana.70080. <br/><br/>
+
 * Vallbé J-J, Cetrà D, Sanjaume-Calvet M. 2025. ["Judicial review and territorial conflicts: Evidence from Spain"]("https://www.cambridge.org/core/journals/european-journal-of-political-research/article/judicial-review-and-territorial-conflicts-evidence-from-spain/49DF4341FD7F54B036E3B75BC0A5BBC5"). ***European Journal of Political Research***, 1–32. https://doi.org/10.1017/S1475676525100455 [Download](https://msanjaume.netlify.app/uploads/Judicial_2025.pdf)<br/><br/>
 
 * Sanjaume-Calvet, M.; Mas, J. 2025. ["The Exodus That Never Was? An Empirical Analysis on Territorial Conflict and Foot-Voting"]("https://www.tandfonline.com/doi/full/10.1080/13537113.2025.2600745?src="). ***Nationalism and Ethnic Politics***, 1–27. https://doi.org/10.1080/13537113.2025.2600745 [Download](https://msanjaume.netlify.app/uploads/Exodus_2025.pdf)<br/><br/>
