@@ -10,7 +10,7 @@ header:
   image: ""
 ---
 
-* Harguindéguy,J-B; Sanjaume-Calvet M. 2026. ["The Politics of Independence Referendums. Never Mind the Ballots"]("https://link.springer.com/book/9783032182999"). Palgrave Macmillan Cham. <br/><br/>
+* Harguindéguy, J-B.; Sanjaume-Calvet, M. 2026. ["The Politics of Independence Referendums. Never Mind the Ballots"]("https://link.springer.com/book/9783032182999"). Palgrave Macmillan Cham. <br/><br/>
 
 
 * Morales Gálvez, Sergi, Elvira Riera-Gil, Lluís Pérez-Lozano, and Marc Sanjaume-Calvet, eds. 2024. [Filosofia Política: Una Introducció](https://www.edicions.ub.edu/ficha.aspx?cod=16517). FILOSOFIA UB. Publicacions i Edicions de la Universitat de Barcelona.<br/><br/>
